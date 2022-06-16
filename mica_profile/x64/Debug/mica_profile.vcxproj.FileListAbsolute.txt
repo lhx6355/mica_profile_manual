@@ -1,0 +1,2 @@
+E:\VS2022\projects\test\x64\Debug\mica_profile.exe
+E:\VS2022\projects\mica_profile\x64\Debug\mica_profile.exe

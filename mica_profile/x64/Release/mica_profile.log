@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\VS2022\projects\mica_profile_manual\mica_profile\reg_depend_length.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  mica_profile.vcxproj -> E:\VS2022\projects\mica_profile_manual\mica_profile\x64\Release\mica_profile.exe
